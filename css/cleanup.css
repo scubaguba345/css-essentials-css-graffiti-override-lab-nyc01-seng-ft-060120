@@ -2,10 +2,10 @@
 #wall .tag-1 {
   display: none;
 }
-#tag-2 {
+ #wall #tag-2 {
   display:none;
 }
-#tag-3.slick {
+div#wall #tag-3.slick{
   display: none;
 }
 #tag-4 {
